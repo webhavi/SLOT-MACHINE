@@ -8,4 +8,4 @@ Players must manage their balance 💳 and make sure their total bet does not ex
 
 This project is perfect for practicing Python fundamentals while building a small casino-style game 🎮. Future upgrades can include jackpots 🏆, payout systems 💸, emoji symbols 🍒🍋⭐💎, sound effects 🔊, and graphical interfaces 🖥️.
 
-A simple, interactive, and exciting project for Python beginners 🚀
+A simple, interactive, and exciting project for Python beginnerss 🚀
